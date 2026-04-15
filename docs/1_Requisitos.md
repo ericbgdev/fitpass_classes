@@ -1,4 +1,4 @@
-# RF01 — Cadastro de Alunos
+## RF01 — Cadastro de Alunos
 O sistema deve permitir cadastrar novos alunos contendo dados pessoais, contato, endereço e plano contratado.
 
 
