@@ -26,18 +26,12 @@ O aluno deve poder visualizar horários e reservar vagas nas aulas disponíveis.
 Instrutores devem registrar presença dos alunos nas aulas.
 
 
-#RF08 — Avaliação Física
+# RF08 — Avaliação Física
 Instrutores devem registrar avaliações físicas (peso, IMC, percentual de gordura etc.) e anexar arquivos se necessário.
 
 
-#RF09 — Relatórios Gerenciais
-O gerente deve poder emitir relatórios como:
-inadimplência
-alunos ativos
-histórico de acessos
-ocupação das aulas
-RF10 — Notificações
-O sistema deve enviar notificações ao aluno sobre:
-vencimento de mensalidade
-confirmação de agendamento
-liberação de nova avaliação física
+# RF09 — Relatórios Gerenciais
+O gerente deve poder emitir relatórios como: inadimplência, alunos ativos, histórico de acessos ,ocupação das aulas.
+
+# RF10 — Notificações
+O sistema deve enviar notificações ao aluno sobre: vencimento de mensalidade, confirmação de agendamento, liberação de nova avaliação física
