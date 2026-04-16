@@ -36,7 +36,6 @@ RF05, RF09
 - idAcesso
 - dataHora
 - autorizado
-- 
 +registrarEntrada() +validarAcesso() +listarHistorico() 
 
 ## **Aula**
